@@ -1,0 +1,59 @@
+Sample TXT files for download
+Welcome to our collection of sample TXT files. Plain text files are the most basic and universal type of document, readable by virtually all text editors and word processors. These samples are ideal for developers, testers, and anyone working with text processing or data handling applications.
+
+Why use our sample TXT files?
+Various content types and lengths
+Different encodings available
+Free to download and use
+Perfect for testing text processing and parsing
+Available sample TXT files for download
+1. Simple text
+Size: 1 KB
+Encoding: UTF-8
+Description: A basic text file with a few sentences of lorem ipsum text.
+
+Download Simple Text
+
+2. Long document
+Size: 112 KB
+Encoding: UTF-8
+Description: A lengthy text document, ideal for testing scrolling and large file handling.
+
+Download Long Document
+
+3. ASCII art
+Size: 1 KB
+Encoding: ASCII
+Description: Text file containing ASCII art, useful for testing monospace font rendering.
+
+Download ASCII Art
+
+4. Multi-language text
+Size: 1 KB
+Encoding: UTF-8
+Description: Text in multiple languages, including non-Latin scripts.
+
+Download Multi-language Text
+
+5. CSV-style data
+Size: 16 KB
+Encoding: UTF-8
+Description: Comma-separated data, useful for testing data parsing and import functions.
+
+Download CSV-style Data
+
+How to use these sample TXT files
+Click the “Download” button next to your chosen file.
+Save the TXT file to your device.
+Open with any text editor or use in your development projects.
+Note: These sample TXT files are free for testing and development.
+
+Need more text samples?
+Check out our other sample document formats or contact us for custom TXT samples.
+
+FAQs about sample TXT files
+What’s the difference between ASCII and UTF-8 encoding?
+ASCII is a simpler encoding that covers basic Latin characters, while UTF-8 can represent characters from almost all writing systems.
+
+Can I edit these TXT files?
+Yes, you can edit these files using any text editor.
